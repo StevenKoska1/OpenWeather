@@ -1,0 +1,4 @@
+api.openweathermap.org/data/2.5/weather?id={city id}&units=metric&appid=4b937b273881ebe4ef9059338bbd39e1
+862995 - Tallinn
+588335 - Tartu
+589580 - Pärnu
